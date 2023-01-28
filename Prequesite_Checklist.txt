@@ -1,0 +1,32 @@
+#CloudCamp. Feb 11 to May 6
+
+Notes
+======
+
+- Student Portal : still coming
+
+- Every week, a security expert will give insights into what could have been done to make your work secure. You may then choose to apply - Hashish Rajan
+
+- The same will be done for Pricing by Chirag Nayyar
+
+Prereq Knowledge 
+==================
+- https://www.youtube.com/watch?v=SOTamWNgDKc   ---- AWS Cloud Practioner
+- https://www.youtube.com/watch?v=eWRfhZUzrAc  ----- Python
+- https://www.youtube.com/watch?v=PkZNo7MFNFg&t=8s ------- Javascript
+- https://www.youtube.com/watch?v=WPqXP_kLzpo   -------- VSCode Crash Course
+- https://www.youtube.com/watch?v=RGOj5yH7evk   ----------- Git and Github
+- https://www.youtube.com/watch?v=cxCG0cFgsd4&t=220s --------- Docker
+- https://c4model.com/ ---------------------------------------- c4 model
+
+Technologies
+==============
+- AWS --------------------------------------------------- Yes(Account), Need to watch
+- Python, Javascript, Yaml and jSON ----------------------------- Need to watch
+- VSCode ------------------------------------------------ Yes
+- Git and Github ---------------------------------------- Yes
+- Docker ------------------------------------------------ Yes
+- Gitpod ------------------------------------------------- Yes
+- Momento Account ---------------------------------------- Yes
+- Custom Domain Name ------------------------------------- I think (meetibrahim.com)
+- Lucid Charts ------------------------------------------- Yes
