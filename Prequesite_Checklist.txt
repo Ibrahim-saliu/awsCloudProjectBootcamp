@@ -30,3 +30,4 @@ Technologies
 - Momento Account ---------------------------------------- Yes
 - Custom Domain Name ------------------------------------- I think (meetibrahim.com)
 - Lucid Charts ------------------------------------------- Yes
+- HoneyComb.io ------------------------------------------- Yes
