@@ -1,0 +1,6 @@
+To do
+======
+
+- Write an app that converts calculate the BMI using weight in lb, converts the weight to kg and re-calculate the BMI.
+- Write an program that converts Degrees in Celsius to Farheints.
+- Write an application that calculate the multiplication and addition of 2 numbers
