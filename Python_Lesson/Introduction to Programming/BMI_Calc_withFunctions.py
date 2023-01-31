@@ -36,7 +36,7 @@ def bmi_Calc():
         if not type(metric_weight) == float:
             float(metric_weight)
 
-        metric_height = float(input("Please enter your weight in metrics in cm : \n"))
+        metric_height = float(input("Please enter your height in metrics in cm : \n"))
         if not type(metric_height) == float:
             float(metric_height)
         convert_metric_height_to_meter = metric_height / 100
