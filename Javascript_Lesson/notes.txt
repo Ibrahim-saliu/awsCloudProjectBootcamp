@@ -1,5 +1,7 @@
 Introduction
 ==============
+- Javascript is an interpreted language - it does not need to be compiled
+- Multiparadigm - meaning, you can write your code in different ways
 - to initiate a an index file, type ! followed by the tab key. 
 - install the live server extension in VSCode to be able to visualize your work
 - once the live server is installed, open your index with live server
@@ -48,10 +50,11 @@ Primitive Types
 ===============
 - this includes :
     - string - text
-    - number - integer (1,2,3,4,......)
+    - number - integer/float/decimal (1,2,3,4.5, 0.2.....). 
     - Boolean - true /false
     - undefined -- type is also undefined
     - null - used when we want to clear the value of a variable 
+    - symbol -- not very common
 
 
 Referenece Types
@@ -65,12 +68,17 @@ Object
 ======
 - insetad of decalring 2 variables, you can declare and object.
 - you can define an object using the object literal {} see line 18-21 in index.js
+- object is a key value pair
+
 
 Arrays 
 =======
 - this is used for declaring or storing a list
 - an array literal is [] and it is an empty array - until populated with items
 - an array can contain different types of elements from string to numbers or a combination of types
+- you can use the .push property of an arrayed variable to add to its array (at the end of the list)
+- you can use the .unshift property of an arrayed variable to add to its array at the beginning
+- 
 
 Functions
 ==========
