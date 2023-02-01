@@ -1,0 +1,89 @@
+Introduction
+==============
+- to initiate a an index file, type ! followed by the tab key. 
+- install the live server extension in VSCode to be able to visualize your work
+- once the live server is installed, open your index with live server
+- test : you can type <h1>Hello World<h1> in the body section and you can viusalize it on your live server
+- to add a java script element, you can add it in either the head section or the body section. It is recommended to add it in the end of the body section
+
+
+Separation of Concerns
+======================
+- separating our html (content) from our javascript (behaviour - how the webpage behave)
+- we created another file called index.js and saved our scripts inside.
+- we then referenced the name of the as the source "src" script in <script><script>
+
+
+Running our js script using node
+================================
+- Following the installation of Node, open your command prompt if windows and locate your index.js file
+- execute "node index.js"
+
+
+Variables
+===========
+- used to store data temporarily in our computer's memory
+- define a variable using the following syntax : let <name of your var> = "value of yoru variable";
+- let allows you to create a variable but can be changed later on
+- Best practices when naming a var:
+    - can't be a js keywork like let, if
+    - must be meaningful
+    - can't start with a number
+    - they are case sensitive
+    - use camelCase notation
+    - cannot contain space or hyphen
+    - define each variable on a separate line
+
+
+Constants
+==========
+- Constant is used to create a variable that will not change in the future
+- constant cannot be reassigned
+- constant should be your default choice
+- Two types of values can be assigned to a variable
+    - Primitive and reference type
+
+
+Primitive Types
+===============
+- this includes :
+    - string - text
+    - number - integer (1,2,3,4,......)
+    - Boolean - true /false
+    - undefined -- type is also undefined
+    - null - used when we want to clear the value of a variable 
+
+
+Referenece Types
+=================
+- this includes :
+    - objects
+    - arrays
+    - function
+
+Object 
+======
+- insetad of decalring 2 variables, you can declare and object.
+- you can define an object using the object literal {} see line 18-21 in index.js
+
+Arrays 
+=======
+- this is used for declaring or storing a list
+- an array literal is [] and it is an empty array - until populated with items
+- an array can contain different types of elements from string to numbers or a combination of types
+
+Functions
+==========
+- set of statements that perform a task
+- use the "function" keyword to define a function - see line 36 of the index.js
+- Types of functions are :
+    - 
+
+
+
+Dynamic Typing
+===============
+
+- Java script is a dynamic language as the value of a variabvle can change
+- All numbers are numbers - no floating or integer
+
