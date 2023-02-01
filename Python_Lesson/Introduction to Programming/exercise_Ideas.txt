@@ -1,6 +1,16 @@
 To do
 ======
 
-- Write an app that converts calculate the BMI using weight in lb, converts the weight to kg and re-calculate the BMI.
+- Write an app that calculate the BMI either using the imperial or the metric system.
+What will we need
+	- weight in imperial units
+	- weight in metric units
+	- height in imperial units
+	- height in metric units
+	- conversion factor of weight from lb to kg 
+	- formular for calculating BMI
+
+
+
 - Write an program that converts Degrees in Celsius to Farheints.
 - Write an application that calculate the multiplication and addition of 2 numbers
