@@ -78,7 +78,10 @@ Arrays
 - an array can contain different types of elements from string to numbers or a combination of types
 - you can use the .push property of an arrayed variable to add to its array (at the end of the list)
 - you can use the .unshift property of an arrayed variable to add to its array at the beginning
-- 
+- High Order Array Methods:
+    - ForEach - loops through an array 
+    - Map - create a new array from an array
+    - Filter - crate a new array based on acondition
 
 Functions
 ==========
